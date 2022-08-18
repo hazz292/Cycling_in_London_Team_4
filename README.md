@@ -2,7 +2,7 @@
 ## This repository stores all scripts created by Team 4 for LSE Employer Project with ThoughtWorks.
 
 ## Each folder contains scripts (Jupyter notebook) answering each business questions.
-## Draft folder contains initial exploratory data analysis scripts (Jupyter notebook) for all 4 business questions.
+## Draft folder contains initial exploratory data analysis scripts (Jupyter notebook) for all 5 business questions.
 ### Q1_Factors: What are the main factors determining when people cycle?
 ### Q2_Infrastructure: What impact does infrastructure have on cycling uptake and how can this be improved?
 ### Q3_Demographics: What are the demographics of cyclists in London?
